@@ -1,11 +1,9 @@
-### I'm Syed! :wave:
+👋 Hi, I'm Syed! I'm a passionate web engineer with over 5.5 years of experience specializing in React, Node, and TypeScript. 
 
+🚀 Currently, I'm engineering web solutions at CEA, transforming ideas into digital realities.
 
-🎊 Hello world!
+🔧 I'm a Full-Stack developer and a DevOps enthusiast, constantly learning and exploring the newest technologies.
 
-- :hammer_and_pick: I’m currently working on building scalable products with Node & React.
-- :memo:   :email: `imrans110 at hotmail.com` .
+💡 I believe in the power of programming to transform and improve the lives of people around the world. 
 
-
-![Syed's github stats](https://github-readme-stats.vercel.app/api?username=imrans110&theme=gruvbox&show_icons=true)
-
+🌐 Let's connect and build something amazing!
