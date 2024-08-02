@@ -1,4 +1,4 @@
-👋 Hi, I'm Syed! I'm a passionate web engineer with over 5.5 years of experience specializing in React, Node, and TypeScript. 
+👋 Hi, I'm Syed! I'm a passionate web engineer with over 7 years of experience specializing in React, Node, and TypeScript. 
 
 🚀 Currently, I'm engineering web solutions at CEA, transforming ideas into digital realities.
 
